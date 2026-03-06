@@ -6,6 +6,8 @@ on:
 jobs:
   sync-boards:
     runs-on: ubuntu-latest
+    env:
+      TZ: "Asia/Colombo"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
