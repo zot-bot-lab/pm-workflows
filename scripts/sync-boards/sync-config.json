@@ -8,62 +8,74 @@
                             {
                                 "org":  "study-reserve",
                                 "projectNumber":  2,
-                                "projectId":  "PVT_kwDOCoPJ084BFfwI"
+                                "projectId":  "PVT_kwDOCoPJ084BFfwI",
+                                "projectName":  "StudyReserve Product Board"
                             },
                             {
                                 "org":  "study-reserve",
                                 "projectNumber":  5,
-                                "projectId":  "PVT_kwDOCoPJ084BFmok"
+                                "projectId":  "PVT_kwDOCoPJ084BFmok",
+                                "projectName":  "StudyQ Product Board"
                             },
                             {
                                 "org":  "GradientSymphony",
                                 "projectNumber":  6,
-                                "projectId":  "PVT_kwDOBbjh_c4AkrpL"
+                                "projectId":  "PVT_kwDOBbjh_c4AkrpL",
+                                "projectName":  "EarlyEmu - Document Generator"
                             },
                             {
                                 "org":  "datapolitics",
                                 "projectNumber":  2,
-                                "projectId":  "PVT_kwDOBSmzAs4BOs_M"
+                                "projectId":  "PVT_kwDOBSmzAs4BOs_M",
+                                "projectName":  "hedwige-ui-rewrite"
                             },
                             {
                                 "org":  "SRM-Developer",
                                 "projectNumber":  2,
-                                "projectId":  "PVT_kwHOCzlY6s4AtGop"
+                                "projectId":  "PVT_kwHOCzlY6s4AtGop",
+                                "projectName":  "SRM Product Board"
                             },
                             {
                                 "org":  "Lucky-Perera",
                                 "projectNumber":  1,
-                                "projectId":  "PVT_kwHOCslWK84Ar3qT"
+                                "projectId":  "PVT_kwHOCslWK84Ar3qT",
+                                "projectName":  "Asset Shield"
                             },
                             {
                                 "org":  "zot-internal",
                                 "projectNumber":  1,
-                                "projectId":  "PVT_kwDODgXGSs4BFl4l"
+                                "projectId":  "PVT_kwDODgXGSs4BFl4l",
+                                "projectName":  "Medichive Product Board"
                             },
                             {
                                 "org":  "zot-internal",
                                 "projectNumber":  2,
-                                "projectId":  "PVT_kwDODgXGSs4BF_Sk"
+                                "projectId":  "PVT_kwDODgXGSs4BF_Sk",
+                                "projectName":  "Zotizens Product Board"
                             },
                             {
                                 "org":  "zot-internal",
                                 "projectNumber":  3,
-                                "projectId":  "PVT_kwDODgXGSs4BOE0t"
+                                "projectId":  "PVT_kwDODgXGSs4BOE0t",
+                                "projectName":  "BYM Project Board"
                             },
                             {
                                 "org":  "zot-internal",
                                 "projectNumber":  4,
-                                "projectId":  "PVT_kwDODgXGSs4BPlHI"
+                                "projectId":  "PVT_kwDODgXGSs4BPlHI",
+                                "projectName":  "QueueUp Product Board"
                             },
                             {
                                 "org":  "zot-internal",
                                 "projectNumber":  5,
-                                "projectId":  "PVT_kwDODgXGSs4BQMyX"
+                                "projectId":  "PVT_kwDODgXGSs4BQMyX",
+                                "projectName":  "Invoyze Product Board"
                             },
                             {
                                 "org":  "zot-internal",
                                 "projectNumber":  7,
-                                "projectId":  "PVT_kwDODgXGSs4BQod8"
+                                "projectId":  "PVT_kwDODgXGSs4BQod8",
+                                "projectName":  "Yanthra Product project"
                             }
                         ],
     "validStatuses":  [
