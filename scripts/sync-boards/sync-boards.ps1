@@ -14,7 +14,7 @@ Optimizations:
 #>
 
 $ErrorActionPreference = "Stop"
-$GH = "C:\Program Files\GitHub CLI\gh.exe"
+$GH = if (Get-Command "gh" -ErrorAction SilentlyContinue) { "gh" } else { "C:\Program Files\GitHub CLI\gh.exe" }
 $MAX_RETRIES = 1
 
 # --- Load Config ---

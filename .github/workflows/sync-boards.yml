@@ -1,0 +1,30 @@
+name: Sync Project Boards Manually
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync-boards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use a Personal Access Token with org admin / project write permissions.
+          # If not set, it uses the default GITHUB_TOKEN which may not have sufficient permissions.
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Run Sync Script
+        shell: pwsh
+        run: ./scripts/sync-boards/sync-boards.ps1
+        env:
+          # Required by the gh CLI to authenticate
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add changelogs/sync-boards.md scripts/sync-boards/sync-config.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-update board sync changelog & config"
+          git push
