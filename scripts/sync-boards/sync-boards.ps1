@@ -335,23 +335,34 @@ for ($bi = 0; $bi -lt $config.secondaryBoards.Count; $bi++) {
     Write-Host "  Board $($bi + 1)/$($config.secondaryBoards.Count): $secOrg (#$secNum)"
     Write-Host "--------------------------------------------"
     
-    # Resolve secondary board project ID (cached in config)
+    # Resolve secondary board project ID and Name (cached in config)
     $secProjId = $board.projectId
-    if (-not $secProjId) {
-        Write-Host "  Resolving project ID (first run, will be cached)..."
+    $secProjName = $board.projectName
+    if (-not $secProjId -or -not $secProjName) {
+        Write-Host "  Resolving project Name/ID (will be cached)..."
         $secProjListJson = Invoke-GHWithRetry -Arguments @("project", "list", "--owner", $secOrg, "--format", "json") -JsonOutput
-        $secProjId = ($secProjListJson.projects | Where-Object { $_.number -eq $secNum }).id
-        if (-not $secProjId) {
-            Write-Warning "  Could not resolve project ID for $secOrg #$secNum. Skipping."
+        $secProj = $secProjListJson.projects | Where-Object { $_.number -eq $secNum }
+        
+        if (-not $secProj) {
+            Write-Warning "  Could not resolve project for $secOrg #$secNum. Skipping."
             continue
         }
-        $board | Add-Member -NotePropertyName "projectId" -NotePropertyValue $secProjId -Force
+        if (-not $secProjId) {
+            $secProjId = $secProj.id
+            $board | Add-Member -NotePropertyName "projectId" -NotePropertyValue $secProjId -Force
+        }
+        if (-not $secProjName) {
+            $secProjName = $secProj.title
+            $board | Add-Member -NotePropertyName "projectName" -NotePropertyValue $secProjName -Force
+        }
         $config | ConvertTo-Json -Depth 10 | Set-Content -Path $configPath
     }
     
+    if (-not $secProjName) { $secProjName = "$secOrg (#$secNum)" }
+    
     # Fetch secondary items via optimized GraphQL
     Write-Host "  Fetching items (GraphQL)..."
-    $secItems = Fetch-ProjectItems $secProjId "$secOrg (#$secNum)"
+    $secItems = Fetch-ProjectItems $secProjId $secProjName
     
     # Detect current week on this secondary board
     $currentWeekTitle = $null
@@ -369,7 +380,7 @@ for ($bi = 0; $bi -lt $config.secondaryBoards.Count; $bi++) {
     if (-not $currentWeekTitle) {
         Write-Host "  No items found in the current week. Skipping.`n"
         $runLog.Add("")
-        $runLog.Add("#### $secOrg (#$secNum) - Skipped")
+        $runLog.Add("#### $secProjName - Skipped")
         $runLog.Add("*No items found in the current week.*")
         continue
     }
@@ -389,7 +400,7 @@ for ($bi = 0; $bi -lt $config.secondaryBoards.Count; $bi++) {
     if ($itemsToSync.Count -eq 0) {
         Write-Host ""
         $runLog.Add("")
-        $runLog.Add("#### $secOrg (#$secNum) - Skipped")
+        $runLog.Add("#### $secProjName - Skipped")
         $runLog.Add("*No items with valid statuses in current week.*")
         continue
     }
@@ -490,7 +501,7 @@ for ($bi = 0; $bi -lt $config.secondaryBoards.Count; $bi++) {
     }
     
     $runLog.Insert(($runLog.Count - $boardAdded - $boardUpdated - $boardSkipped), "")
-    $runLog.Insert(($runLog.Count - $boardAdded - $boardUpdated - $boardSkipped), "#### $secOrg (#$secNum) - +$boardAdded added, ~$boardUpdated updated, =$boardSkipped skipped")
+    $runLog.Insert(($runLog.Count - $boardAdded - $boardUpdated - $boardSkipped), "#### $secProjName - +$boardAdded added, ~$boardUpdated updated, =$boardSkipped skipped")
     Write-Host "  Results: +$boardAdded added, ~$boardUpdated updated, =$boardSkipped skipped`n"
     $totalAdded += $boardAdded
     $totalUpdated += $boardUpdated
