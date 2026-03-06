@@ -1,0 +1,77 @@
+{
+    "mainBoard":  {
+                      "org":  "team-zeroone",
+                      "projectNumber":  31,
+                      "projectId":  "PVT_kwDOA-aWxs4BFfgL"
+                  },
+    "secondaryBoards":  [
+                            {
+                                "org":  "study-reserve",
+                                "projectNumber":  2,
+                                "projectId":  "PVT_kwDOCoPJ084BFfwI"
+                            },
+                            {
+                                "org":  "study-reserve",
+                                "projectNumber":  5,
+                                "projectId":  "PVT_kwDOCoPJ084BFmok"
+                            },
+                            {
+                                "org":  "GradientSymphony",
+                                "projectNumber":  6,
+                                "projectId":  "PVT_kwDOBbjh_c4AkrpL"
+                            },
+                            {
+                                "org":  "datapolitics",
+                                "projectNumber":  2,
+                                "projectId":  "PVT_kwDOBSmzAs4BOs_M"
+                            },
+                            {
+                                "org":  "SRM-Developer",
+                                "projectNumber":  2,
+                                "projectId":  "PVT_kwHOCzlY6s4AtGop"
+                            },
+                            {
+                                "org":  "Lucky-Perera",
+                                "projectNumber":  1,
+                                "projectId":  "PVT_kwHOCslWK84Ar3qT"
+                            },
+                            {
+                                "org":  "zot-internal",
+                                "projectNumber":  1,
+                                "projectId":  "PVT_kwDODgXGSs4BFl4l"
+                            },
+                            {
+                                "org":  "zot-internal",
+                                "projectNumber":  2,
+                                "projectId":  "PVT_kwDODgXGSs4BF_Sk"
+                            },
+                            {
+                                "org":  "zot-internal",
+                                "projectNumber":  3,
+                                "projectId":  "PVT_kwDODgXGSs4BOE0t"
+                            },
+                            {
+                                "org":  "zot-internal",
+                                "projectNumber":  4,
+                                "projectId":  "PVT_kwDODgXGSs4BPlHI"
+                            },
+                            {
+                                "org":  "zot-internal",
+                                "projectNumber":  5,
+                                "projectId":  "PVT_kwDODgXGSs4BQMyX"
+                            },
+                            {
+                                "org":  "zot-internal",
+                                "projectNumber":  7,
+                                "projectId":  "PVT_kwDODgXGSs4BQod8"
+                            }
+                        ],
+    "validStatuses":  [
+                          "Ready",
+                          "In progress",
+                          "In review",
+                          "Done",
+                          "Blocked",
+                          "Discarded"
+                      ]
+}
