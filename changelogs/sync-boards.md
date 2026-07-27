@@ -2,6 +2,79 @@
 
 ## 2026-07-27
 
+### V8 - 04:00 PM
+
+| Added | Updated | Skipped |
+|-------|---------|---------|
+| 1     | 6       | 792       |
+
+
+#### StudyReserve Product Board - Skipped
+*No items found in the current week.*
+
+#### StudyQ Product Board - Skipped
+*No items found in the current week.*
+
+#### EarlyEmu - Document Generator - +0 added, ~0 updated, =741 skipped
+
+#### UnbrandedLK Product Board - Skipped
+*No items found in the current week.*
+
+#### Assetshield Product Board - +1 added, ~0 updated, =9 skipped
+  - **[ADD]** Connecting playstore and app store into expo - fields set: Status: Backlog, Week
+
+#### SRM Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Marketing Board - Skipped
+*No items found in the current week.*
+
+#### Hedwige-crawling - +0 added, ~3 updated, =35 skipped
+  - **[UPDATE]** [P2] Ville de Plaisir publications (DematDoc) - Week 5 - changed: Status: Ready
+  - **[UPDATE]** [P2] Pôle Métropolitain du Pays de Brest (Megalis) - Week 6 - changed: Status: Ready
+  - **[UPDATE]** [P3] data.gouv.fr RSS (RSS Feed) - Week 7 - changed: Status: Ready
+
+#### Medichive Product Board - Skipped
+*No items found in the current week.*
+
+#### Zotizens Product Board - Skipped
+*No items found in the current week.*
+
+#### BYM Project Board - Skipped
+*No items found in the current week.*
+
+#### QueueUp Product Board - Skipped
+*No items found in the current week.*
+
+#### Invoyze Product Board - Skipped
+*No items found in the current week.*
+
+#### Yanthra Product project - Skipped
+*No items found in the current week.*
+
+#### ZOT Web V6 Product Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Sales Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Marketing Board - Skipped
+*No items found in the current week.*
+
+#### SL Drive Product Board - Skipped
+*No items found in the current week.*
+
+#### BespokeBuilds Board - Skipped
+*No items found in the current week.*
+
+#### SpendSei Product Board - +0 added, ~3 updated, =7 skipped
+  - **[UPDATE]** [FIX] delete account flow - changed: Week
+  - **[UPDATE]** Resubmit for app review in app store - changed: Week
+  - **[UPDATE]** Release with bug fixes and review failure fixes - changed: Week
+
 ### V7 - 03:01 PM
 
 | Added | Updated | Skipped |
