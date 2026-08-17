@@ -2,6 +2,80 @@
 
 ## 2026-08-17
 
+### V5 - 01:00 PM
+
+| Added | Updated | Skipped |
+|-------|---------|---------|
+| 0     | 8       | 105       |
+
+
+#### StudyReserve Product Board - Skipped
+*No items found in the current week.*
+
+#### StudyQ Product Board - Skipped
+*No items found in the current week.*
+
+#### EarlyEmu - Document Generator - Skipped
+*No items found in the current week.*
+
+#### UnbrandedLK Product Board - Skipped
+*No items found in the current week.*
+
+#### Assetshield Product Board - +0 added, ~0 updated, =11 skipped
+
+#### SRM Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Marketing Board - Skipped
+*No items found in the current week.*
+
+#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
+
+#### Medichive Product Board - Skipped
+*No items found in the current week.*
+
+#### Zotizens Product Board - Skipped
+*No items found in the current week.*
+
+#### BYM Project Board - Skipped
+*No items found in the current week.*
+
+#### QueueUp Product Board - +0 added, ~7 updated, =40 skipped
+  - **[UPDATE]** [fix] account setup/signup issues - changed: Status: On Hold, Week
+  - **[UPDATE]** [fix] adding mobile number multiple times for Live queue - changed: Week
+  - **[UPDATE]** [fix] Cannot be added two customers for same lane Active sessions. - changed: Week
+  - **[UPDATE]** [fix] Join as a guest after QR scan issue - changed: Week
+  - **[UPDATE]** Plan for new requirements - changed: Status: In progress, Week
+  - **[UPDATE]** New UI/UX design - changed: Week
+  - **[UPDATE]** Wire frame for UI?UX design - changed: Week
+
+#### Invoyze Product Board - Skipped
+*No items found in the current week.*
+
+#### Yanthra Product project - Skipped
+*No items found in the current week.*
+
+#### ZOT Web V6 Product Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Sales Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Marketing Board - Skipped
+*No items found in the current week.*
+
+#### SL Drive Product Board - Skipped
+*No items found in the current week.*
+
+#### BespokeBuilds Board - Skipped
+*No items found in the current week.*
+
+#### SpendSei Product Board - +0 added, ~1 updated, =14 skipped
+  - **[UPDATE]** Research & Prod release on play store and app store - changed: Week
+
 ### V4 - 12:00 PM
 
 | Added | Updated | Skipped |
