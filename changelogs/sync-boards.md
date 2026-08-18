@@ -2,6 +2,74 @@
 
 ## 2026-08-18
 
+### V4 - 12:01 PM
+
+| Added | Updated | Skipped |
+|-------|---------|---------|
+| 2     | 1       | 909       |
+
+
+#### StudyReserve Product Board - Skipped
+*No items found in the current week.*
+
+#### StudyQ Product Board - Skipped
+*No items found in the current week.*
+
+#### EarlyEmu - Document Generator - +2 added, ~1 updated, =796 skipped
+  - **[ADD]** Elestio instance deployment - fields set: Status: In progress, Week
+  - **[UPDATE]** Improve "Discover Features" video quality - changed: Week
+  - **[ADD]** Fix public API guide UI mobile responsiveness - fields set: Status: Ready, Week
+
+#### UnbrandedLK Product Board - Skipped
+*No items found in the current week.*
+
+#### Assetshield Product Board - +0 added, ~0 updated, =11 skipped
+
+#### SRM Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Marketing Board - Skipped
+*No items found in the current week.*
+
+#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
+
+#### Medichive Product Board - Skipped
+*No items found in the current week.*
+
+#### Zotizens Product Board - Skipped
+*No items found in the current week.*
+
+#### BYM Project Board - Skipped
+*No items found in the current week.*
+
+#### QueueUp Product Board - +0 added, ~0 updated, =47 skipped
+
+#### Invoyze Product Board - Skipped
+*No items found in the current week.*
+
+#### Yanthra Product project - Skipped
+*No items found in the current week.*
+
+#### ZOT Web V6 Product Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Sales Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Marketing Board - Skipped
+*No items found in the current week.*
+
+#### SL Drive Product Board - Skipped
+*No items found in the current week.*
+
+#### BespokeBuilds Board - Skipped
+*No items found in the current week.*
+
+#### SpendSei Product Board - +0 added, ~0 updated, =15 skipped
+
 ### V3 - 11:00 AM
 
 | Added | Updated | Skipped |
