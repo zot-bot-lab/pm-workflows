@@ -2,6 +2,74 @@
 
 ## 2026-08-19
 
+### V5 - 01:01 PM
+
+| Added | Updated | Skipped |
+|-------|---------|---------|
+| 0     | 3       | 912       |
+
+
+#### StudyReserve Product Board - Skipped
+*No items found in the current week.*
+
+#### StudyQ Product Board - Skipped
+*No items found in the current week.*
+
+#### EarlyEmu - Document Generator - +0 added, ~0 updated, =801 skipped
+
+#### UnbrandedLK Product Board - Skipped
+*No items found in the current week.*
+
+#### Assetshield Product Board - +0 added, ~0 updated, =11 skipped
+
+#### SRM Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Marketing Board - Skipped
+*No items found in the current week.*
+
+#### Hedwige-crawling - +0 added, ~3 updated, =37 skipped
+  - **[UPDATE]** [P4] Laxou Deliberations (Maelis) - Week 9 - changed: Status: In Review
+  - **[UPDATE]** [P4] Mairie de Vraiville councils (Google Drive) - Week 10 - changed: Status: In Progress
+  - **[UPDATE]** [P4] Drancy SharePoint Portal (OneDrive/SharePoint) - Week 10 - changed: Week
+
+#### Medichive Product Board - Skipped
+*No items found in the current week.*
+
+#### Zotizens Product Board - Skipped
+*No items found in the current week.*
+
+#### BYM Project Board - Skipped
+*No items found in the current week.*
+
+#### QueueUp Product Board - +0 added, ~0 updated, =47 skipped
+
+#### Invoyze Product Board - Skipped
+*No items found in the current week.*
+
+#### Yanthra Product project - Skipped
+*No items found in the current week.*
+
+#### ZOT Web V6 Product Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Sales Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Marketing Board - Skipped
+*No items found in the current week.*
+
+#### SL Drive Product Board - Skipped
+*No items found in the current week.*
+
+#### BespokeBuilds Board - Skipped
+*No items found in the current week.*
+
+#### SpendSei Product Board - +0 added, ~0 updated, =16 skipped
+
 ### V4 - 12:01 PM
 
 | Added | Updated | Skipped |
