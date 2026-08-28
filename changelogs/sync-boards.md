@@ -1,5 +1,75 @@
 # Sync Boards - Run Log
 
+## 2026-08-28
+
+### V1 - 09:01 AM
+
+| Added | Updated | Skipped |
+|-------|---------|---------|
+| 0     | 0       | 957       |
+
+
+#### StudyReserve Product Board - Skipped
+*No items found in the current week.*
+
+#### StudyQ Product Board - +0 added, ~0 updated, =52 skipped
+
+#### EarlyEmu - Document Generator - +0 added, ~0 updated, =816 skipped
+
+#### UnbrandedLK Product Board - Skipped
+*No items found in the current week.*
+
+#### Assetshield Product Board - Skipped
+*No items found in the current week.*
+
+#### SRM Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Marketing Board - Skipped
+*No items found in the current week.*
+
+#### Hedwige-crawling - +0 added, ~0 updated, =41 skipped
+
+#### Medichive Product Board - Skipped
+*No items found in the current week.*
+
+#### Zotizens Product Board - Skipped
+*No items found in the current week.*
+
+#### BYM Project Board - Skipped
+*No items found in the current week.*
+
+#### QueueUp Product Board - +0 added, ~0 updated, =48 skipped
+
+#### Invoyze Product Board - Skipped
+*No items found in the current week.*
+
+#### Yanthra Product project - Skipped
+*No items found in the current week.*
+
+#### ZOT Web V6 Product Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Sales Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Marketing Board - Skipped
+*No items found in the current week.*
+
+#### SL Drive Product Board - Skipped
+*No items found in the current week.*
+
+#### BespokeBuilds Board - Skipped
+*No items found in the current week.*
+
+#### SpendSei Product Board - Skipped
+*No items found in the current week.*
+
+---
+
 ## 2026-08-27
 
 ### V10 - 06:01 PM
@@ -6674,671 +6744,4 @@
 *No items found in the current week.*
 
 #### SpendSei Product Board - +0 added, ~0 updated, =14 skipped
-
----
-
-## 2026-08-13
-
-### V10 - 06:01 PM
-
-| Added | Updated | Skipped |
-|-------|---------|---------|
-| 0     | 0       | 890       |
-
-
-#### StudyReserve Product Board - Skipped
-*No items found in the current week.*
-
-#### StudyQ Product Board - Skipped
-*No items found in the current week.*
-
-#### EarlyEmu - Document Generator - +0 added, ~0 updated, =789 skipped
-
-#### UnbrandedLK Product Board - Skipped
-*No items found in the current week.*
-
-#### Assetshield Product Board - Skipped
-*No items found in the current week.*
-
-#### SRM Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Marketing Board - Skipped
-*No items found in the current week.*
-
-#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
-
-#### Medichive Product Board - Skipped
-*No items found in the current week.*
-
-#### Zotizens Product Board - Skipped
-*No items found in the current week.*
-
-#### BYM Project Board - Skipped
-*No items found in the current week.*
-
-#### QueueUp Product Board - +0 added, ~0 updated, =47 skipped
-
-#### Invoyze Product Board - Skipped
-*No items found in the current week.*
-
-#### Yanthra Product project - Skipped
-*No items found in the current week.*
-
-#### ZOT Web V6 Product Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Sales Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Marketing Board - Skipped
-*No items found in the current week.*
-
-#### SL Drive Product Board - Skipped
-*No items found in the current week.*
-
-#### BespokeBuilds Board - Skipped
-*No items found in the current week.*
-
-#### SpendSei Product Board - +0 added, ~0 updated, =14 skipped
-
-### V9 - 05:01 PM
-
-| Added | Updated | Skipped |
-|-------|---------|---------|
-| 0     | 0       | 890       |
-
-
-#### StudyReserve Product Board - Skipped
-*No items found in the current week.*
-
-#### StudyQ Product Board - Skipped
-*No items found in the current week.*
-
-#### EarlyEmu - Document Generator - +0 added, ~0 updated, =789 skipped
-
-#### UnbrandedLK Product Board - Skipped
-*No items found in the current week.*
-
-#### Assetshield Product Board - Skipped
-*No items found in the current week.*
-
-#### SRM Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Marketing Board - Skipped
-*No items found in the current week.*
-
-#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
-
-#### Medichive Product Board - Skipped
-*No items found in the current week.*
-
-#### Zotizens Product Board - Skipped
-*No items found in the current week.*
-
-#### BYM Project Board - Skipped
-*No items found in the current week.*
-
-#### QueueUp Product Board - +0 added, ~0 updated, =47 skipped
-
-#### Invoyze Product Board - Skipped
-*No items found in the current week.*
-
-#### Yanthra Product project - Skipped
-*No items found in the current week.*
-
-#### ZOT Web V6 Product Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Sales Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Marketing Board - Skipped
-*No items found in the current week.*
-
-#### SL Drive Product Board - Skipped
-*No items found in the current week.*
-
-#### BespokeBuilds Board - Skipped
-*No items found in the current week.*
-
-#### SpendSei Product Board - +0 added, ~0 updated, =14 skipped
-
-### V8 - 04:00 PM
-
-| Added | Updated | Skipped |
-|-------|---------|---------|
-| 0     | 0       | 890       |
-
-
-#### StudyReserve Product Board - Skipped
-*No items found in the current week.*
-
-#### StudyQ Product Board - Skipped
-*No items found in the current week.*
-
-#### EarlyEmu - Document Generator - +0 added, ~0 updated, =789 skipped
-
-#### UnbrandedLK Product Board - Skipped
-*No items found in the current week.*
-
-#### Assetshield Product Board - Skipped
-*No items found in the current week.*
-
-#### SRM Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Marketing Board - Skipped
-*No items found in the current week.*
-
-#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
-
-#### Medichive Product Board - Skipped
-*No items found in the current week.*
-
-#### Zotizens Product Board - Skipped
-*No items found in the current week.*
-
-#### BYM Project Board - Skipped
-*No items found in the current week.*
-
-#### QueueUp Product Board - +0 added, ~0 updated, =47 skipped
-
-#### Invoyze Product Board - Skipped
-*No items found in the current week.*
-
-#### Yanthra Product project - Skipped
-*No items found in the current week.*
-
-#### ZOT Web V6 Product Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Sales Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Marketing Board - Skipped
-*No items found in the current week.*
-
-#### SL Drive Product Board - Skipped
-*No items found in the current week.*
-
-#### BespokeBuilds Board - Skipped
-*No items found in the current week.*
-
-#### SpendSei Product Board - +0 added, ~0 updated, =14 skipped
-
-### V7 - 03:00 PM
-
-| Added | Updated | Skipped |
-|-------|---------|---------|
-| 0     | 0       | 890       |
-
-
-#### StudyReserve Product Board - Skipped
-*No items found in the current week.*
-
-#### StudyQ Product Board - Skipped
-*No items found in the current week.*
-
-#### EarlyEmu - Document Generator - +0 added, ~0 updated, =789 skipped
-
-#### UnbrandedLK Product Board - Skipped
-*No items found in the current week.*
-
-#### Assetshield Product Board - Skipped
-*No items found in the current week.*
-
-#### SRM Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Marketing Board - Skipped
-*No items found in the current week.*
-
-#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
-
-#### Medichive Product Board - Skipped
-*No items found in the current week.*
-
-#### Zotizens Product Board - Skipped
-*No items found in the current week.*
-
-#### BYM Project Board - Skipped
-*No items found in the current week.*
-
-#### QueueUp Product Board - +0 added, ~0 updated, =47 skipped
-
-#### Invoyze Product Board - Skipped
-*No items found in the current week.*
-
-#### Yanthra Product project - Skipped
-*No items found in the current week.*
-
-#### ZOT Web V6 Product Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Sales Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Marketing Board - Skipped
-*No items found in the current week.*
-
-#### SL Drive Product Board - Skipped
-*No items found in the current week.*
-
-#### BespokeBuilds Board - Skipped
-*No items found in the current week.*
-
-#### SpendSei Product Board - +0 added, ~0 updated, =14 skipped
-
-### V6 - 02:01 PM
-
-| Added | Updated | Skipped |
-|-------|---------|---------|
-| 0     | 0       | 890       |
-
-
-#### StudyReserve Product Board - Skipped
-*No items found in the current week.*
-
-#### StudyQ Product Board - Skipped
-*No items found in the current week.*
-
-#### EarlyEmu - Document Generator - +0 added, ~0 updated, =789 skipped
-
-#### UnbrandedLK Product Board - Skipped
-*No items found in the current week.*
-
-#### Assetshield Product Board - Skipped
-*No items found in the current week.*
-
-#### SRM Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Marketing Board - Skipped
-*No items found in the current week.*
-
-#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
-
-#### Medichive Product Board - Skipped
-*No items found in the current week.*
-
-#### Zotizens Product Board - Skipped
-*No items found in the current week.*
-
-#### BYM Project Board - Skipped
-*No items found in the current week.*
-
-#### QueueUp Product Board - +0 added, ~0 updated, =47 skipped
-
-#### Invoyze Product Board - Skipped
-*No items found in the current week.*
-
-#### Yanthra Product project - Skipped
-*No items found in the current week.*
-
-#### ZOT Web V6 Product Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Sales Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Marketing Board - Skipped
-*No items found in the current week.*
-
-#### SL Drive Product Board - Skipped
-*No items found in the current week.*
-
-#### BespokeBuilds Board - Skipped
-*No items found in the current week.*
-
-#### SpendSei Product Board - +0 added, ~0 updated, =14 skipped
-
-### V5 - 01:01 PM
-
-| Added | Updated | Skipped |
-|-------|---------|---------|
-| 0     | 0       | 890       |
-
-
-#### StudyReserve Product Board - Skipped
-*No items found in the current week.*
-
-#### StudyQ Product Board - Skipped
-*No items found in the current week.*
-
-#### EarlyEmu - Document Generator - +0 added, ~0 updated, =789 skipped
-
-#### UnbrandedLK Product Board - Skipped
-*No items found in the current week.*
-
-#### Assetshield Product Board - Skipped
-*No items found in the current week.*
-
-#### SRM Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Marketing Board - Skipped
-*No items found in the current week.*
-
-#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
-
-#### Medichive Product Board - Skipped
-*No items found in the current week.*
-
-#### Zotizens Product Board - Skipped
-*No items found in the current week.*
-
-#### BYM Project Board - Skipped
-*No items found in the current week.*
-
-#### QueueUp Product Board - +0 added, ~0 updated, =47 skipped
-
-#### Invoyze Product Board - Skipped
-*No items found in the current week.*
-
-#### Yanthra Product project - Skipped
-*No items found in the current week.*
-
-#### ZOT Web V6 Product Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Sales Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Marketing Board - Skipped
-*No items found in the current week.*
-
-#### SL Drive Product Board - Skipped
-*No items found in the current week.*
-
-#### BespokeBuilds Board - Skipped
-*No items found in the current week.*
-
-#### SpendSei Product Board - +0 added, ~0 updated, =14 skipped
-
-### V4 - 12:00 PM
-
-| Added | Updated | Skipped |
-|-------|---------|---------|
-| 0     | 0       | 890       |
-
-
-#### StudyReserve Product Board - Skipped
-*No items found in the current week.*
-
-#### StudyQ Product Board - Skipped
-*No items found in the current week.*
-
-#### EarlyEmu - Document Generator - +0 added, ~0 updated, =789 skipped
-
-#### UnbrandedLK Product Board - Skipped
-*No items found in the current week.*
-
-#### Assetshield Product Board - Skipped
-*No items found in the current week.*
-
-#### SRM Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Marketing Board - Skipped
-*No items found in the current week.*
-
-#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
-
-#### Medichive Product Board - Skipped
-*No items found in the current week.*
-
-#### Zotizens Product Board - Skipped
-*No items found in the current week.*
-
-#### BYM Project Board - Skipped
-*No items found in the current week.*
-
-#### QueueUp Product Board - +0 added, ~0 updated, =47 skipped
-
-#### Invoyze Product Board - Skipped
-*No items found in the current week.*
-
-#### Yanthra Product project - Skipped
-*No items found in the current week.*
-
-#### ZOT Web V6 Product Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Sales Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Marketing Board - Skipped
-*No items found in the current week.*
-
-#### SL Drive Product Board - Skipped
-*No items found in the current week.*
-
-#### BespokeBuilds Board - Skipped
-*No items found in the current week.*
-
-#### SpendSei Product Board - +0 added, ~0 updated, =14 skipped
-
-### V3 - 11:01 AM
-
-| Added | Updated | Skipped |
-|-------|---------|---------|
-| 0     | 0       | 890       |
-
-
-#### StudyReserve Product Board - Skipped
-*No items found in the current week.*
-
-#### StudyQ Product Board - Skipped
-*No items found in the current week.*
-
-#### EarlyEmu - Document Generator - +0 added, ~0 updated, =789 skipped
-
-#### UnbrandedLK Product Board - Skipped
-*No items found in the current week.*
-
-#### Assetshield Product Board - Skipped
-*No items found in the current week.*
-
-#### SRM Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Marketing Board - Skipped
-*No items found in the current week.*
-
-#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
-
-#### Medichive Product Board - Skipped
-*No items found in the current week.*
-
-#### Zotizens Product Board - Skipped
-*No items found in the current week.*
-
-#### BYM Project Board - Skipped
-*No items found in the current week.*
-
-#### QueueUp Product Board - +0 added, ~0 updated, =47 skipped
-
-#### Invoyze Product Board - Skipped
-*No items found in the current week.*
-
-#### Yanthra Product project - Skipped
-*No items found in the current week.*
-
-#### ZOT Web V6 Product Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Sales Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Marketing Board - Skipped
-*No items found in the current week.*
-
-#### SL Drive Product Board - Skipped
-*No items found in the current week.*
-
-#### BespokeBuilds Board - Skipped
-*No items found in the current week.*
-
-#### SpendSei Product Board - +0 added, ~0 updated, =14 skipped
-
-### V2 - 10:00 AM
-
-| Added | Updated | Skipped |
-|-------|---------|---------|
-| 0     | 0       | 890       |
-
-
-#### StudyReserve Product Board - Skipped
-*No items found in the current week.*
-
-#### StudyQ Product Board - Skipped
-*No items found in the current week.*
-
-#### EarlyEmu - Document Generator - +0 added, ~0 updated, =789 skipped
-
-#### UnbrandedLK Product Board - Skipped
-*No items found in the current week.*
-
-#### Assetshield Product Board - Skipped
-*No items found in the current week.*
-
-#### SRM Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Marketing Board - Skipped
-*No items found in the current week.*
-
-#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
-
-#### Medichive Product Board - Skipped
-*No items found in the current week.*
-
-#### Zotizens Product Board - Skipped
-*No items found in the current week.*
-
-#### BYM Project Board - Skipped
-*No items found in the current week.*
-
-#### QueueUp Product Board - +0 added, ~0 updated, =47 skipped
-
-#### Invoyze Product Board - Skipped
-*No items found in the current week.*
-
-#### Yanthra Product project - Skipped
-*No items found in the current week.*
-
-#### ZOT Web V6 Product Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Sales Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Marketing Board - Skipped
-*No items found in the current week.*
-
-#### SL Drive Product Board - Skipped
-*No items found in the current week.*
-
-#### BespokeBuilds Board - Skipped
-*No items found in the current week.*
-
-#### SpendSei Product Board - +0 added, ~0 updated, =14 skipped
-
-### V1 - 09:00 AM
-
-| Added | Updated | Skipped |
-|-------|---------|---------|
-| 0     | 3       | 887       |
-
-
-#### StudyReserve Product Board - Skipped
-*No items found in the current week.*
-
-#### StudyQ Product Board - Skipped
-*No items found in the current week.*
-
-#### EarlyEmu - Document Generator - +0 added, ~0 updated, =789 skipped
-
-#### UnbrandedLK Product Board - Skipped
-*No items found in the current week.*
-
-#### Assetshield Product Board - Skipped
-*No items found in the current week.*
-
-#### SRM Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Product Board - Skipped
-*No items found in the current week.*
-
-#### Lexigram Marketing Board - Skipped
-*No items found in the current week.*
-
-#### Hedwige-crawling - +0 added, ~0 updated, =40 skipped
-
-#### Medichive Product Board - Skipped
-*No items found in the current week.*
-
-#### Zotizens Product Board - Skipped
-*No items found in the current week.*
-
-#### BYM Project Board - Skipped
-*No items found in the current week.*
-
-#### QueueUp Product Board - +0 added, ~1 updated, =46 skipped
-  - **[UPDATE]** [fix] account setup/signup issues - changed: Status: In progress
-
-#### Invoyze Product Board - Skipped
-*No items found in the current week.*
-
-#### Yanthra Product project - Skipped
-*No items found in the current week.*
-
-#### ZOT Web V6 Product Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Sales Board - Skipped
-*No items found in the current week.*
-
-#### ZOT Marketing Board - Skipped
-*No items found in the current week.*
-
-#### SL Drive Product Board - Skipped
-*No items found in the current week.*
-
-#### BespokeBuilds Board - Skipped
-*No items found in the current week.*
-
-#### SpendSei Product Board - +0 added, ~2 updated, =12 skipped
-  - **[UPDATE]** Requirements gather from spendsei sheet - changed: Status: Backlog
-  - **[UPDATE]** Research & Prod release on play store and app store - changed: Status: Blocked
 
