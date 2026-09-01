@@ -2,6 +2,84 @@
 
 ## 2026-09-01
 
+### V8 - 05:00 PM
+
+| Added | Updated | Skipped |
+|-------|---------|---------|
+| 2     | 10       | 909       |
+
+
+#### StudyReserve Product Board - Skipped
+*No items found in the current week.*
+
+#### StudyQ Product Board - Skipped
+*No items found in the current week.*
+
+#### EarlyEmu - Document Generator - +0 added, ~2 updated, =816 skipped
+  - **[UPDATE]** Postiz integration & content scheduling - changed: Week
+  - **[UPDATE]** TDD configuration - changed: Week
+
+#### UnbrandedLK Product Board - Skipped
+*No items found in the current week.*
+
+#### Assetshield Product Board - +2 added, ~3 updated, =8 skipped
+  - **[UPDATE]** M8 — Release Readiness - changed: Week
+  - **[UPDATE]** Connecting playstore and app store into expo - changed: Status: Backlog
+  - **[UPDATE]** Project onboard - changed: Week
+  - **[ADD]** Deploy API and web to AWS EC2 (production environment) - fields set: Status: Ready, Week
+  - **[ADD]** Add staging environment and promote releases by image tag - fields set: Status: Ready, Week
+
+#### SRM Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Product Board - Skipped
+*No items found in the current week.*
+
+#### Lexigram Marketing Board - Skipped
+*No items found in the current week.*
+
+#### Hedwige-crawling - +0 added, ~0 updated, =42 skipped
+
+#### Medichive Product Board - Skipped
+*No items found in the current week.*
+
+#### Zotizens Product Board - Skipped
+*No items found in the current week.*
+
+#### BYM Project Board - Skipped
+*No items found in the current week.*
+
+#### QueueUp Product Board - +0 added, ~5 updated, =43 skipped
+  - **[UPDATE]** [fix] account setup/signup issues (last week) - changed: Status: In review
+  - **[UPDATE]** [fix] adding mobile number multiple times for Live queue - changed: Week
+  - **[UPDATE]** [fix] Cannot be added two customers for same lane Active sessions. - changed: Week
+  - **[UPDATE]** [fix] Join as a guest after QR scan issue - changed: Status: In progress, Week
+  - **[UPDATE]** [Bug] Only the first customer is added to the pool when using the "Add Another" flow - changed: Status: In review, Week
+
+#### Invoyze Product Board - Skipped
+*No items found in the current week.*
+
+#### Yanthra Product project - Skipped
+*No items found in the current week.*
+
+#### ZOT Web V6 Product Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Sales Board - Skipped
+*No items found in the current week.*
+
+#### ZOT Marketing Board - Skipped
+*No items found in the current week.*
+
+#### SL Drive Product Board - Skipped
+*No items found in the current week.*
+
+#### BespokeBuilds Board - Skipped
+*No items found in the current week.*
+
+#### SpendSei Product Board - Skipped
+*No items found in the current week.*
+
 ### V7 - 04:00 PM
 
 | Added | Updated | Skipped |
